@@ -20,9 +20,15 @@ Data from the sparkle study of 2023 is collected in this file. The two indicator
   - Label Snow: type of the snow from which the data was collected from.
  
 - temperature.csv.
-This file reports the temperatures for each day of the acquisition campaign. As mentioned in the paper, the temeprature were recorded from the website yr.no. The .csv file contains the following columns:
+This file reports the temperatures for each day of the field campaign. As mentioned in the paper, the temeprature were recorded from the website yr.no. The .csv file contains the following columns:
   - Day: it states the day number with day 1 being 9.2.2023 (Februarry 9th).
   - Average Temperature: average temperature of the day (unit °C).
   - Minimum Temperature: minimum temperature of the day (unit °C).
   - Maximum Temperature: maximum temperature of the day (unit °C).
+  - Label Snow: type of the snow from which the data was collected from.
+
+- temperature_hourly-resolution.csv.
+This file report the temperatures for each day of the field campaign with an hourly resolution. Records of temperatures starts from 12am (00:00) until 11pm (23:00).
+  - Day: it states the day number with day 1 being 9.2.2023 (Februarry 9th).
+  - Temperature: temperature on the hour (unit °C).
   - Label Snow: type of the snow from which the data was collected from.
