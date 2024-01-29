@@ -1,5 +1,8 @@
 # Data_Winter_2023
-The repositery is divided into 3 separate .csv files. These files are used in the paper titled "Exploring Imaging Methods for in-situ Measurements of the Visual Appearance of Snow". The methods of acquisition are described in this paper for all physical correlates. The data either collected or generated from the processing algorithms is shared so that other people can use them.
+The repositery is divided into 3 separate .csv files. These files are used in the paper titled "Exploring Imaging Methods for In Situ Measurements of the Visual Appearance of Snow". 
+The paper can be accessed at the following: https://www.mdpi.com/2657084
+
+The methods of acquisition are described in this paper for all physical correlates. The data either collected or generated from the processing algorithms is shared so that other people can use them.
 
 - optical_properties.csv.
 The data of this file was collected with the translucency meter DiaStron TLS850, and the inversion method to obtain absorption and reduced scattering coefficients is decribed in the paper. The .csv file contains the following columns:
